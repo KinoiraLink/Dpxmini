@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-1gbmxpts1877ff92 --n quickstartFunctions --r --project "C:\Mydata\WeChat\Dpxmini" --report_first --report
